@@ -1,2 +1,7 @@
 # euler-project
-100 programming problems in any programming language
+
+1)  f=[ ]
+for i in range(12,996,3):
+    f.append(i)
+    b=sum(f)
+print(b)
